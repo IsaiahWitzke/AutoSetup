@@ -1,5 +1,5 @@
 This is a (currently broken) bot that logs me into chrome so every time
-I use the university's computers, I dont have to type in my credentials
+I use the university's computers I dont have to type in my credentials
 
 TODO:
 - [DONE] Add in a part of the script to auto configure github
